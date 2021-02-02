@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.forM {
+    width:70%;
+    height:auto;
+    background-color: blanchedalmond;
+    margin:0% 10% 0% 10%;
+}
+form {
+    width: 90%;
+    height: auto;
+    margin: 0px;
+    padding:5% 10%;
+    background-color: cornsilk;
+}
+#q2 {
+    width:100%;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 5%;
+}
+#q3 {
+    font-weight: normal;
+
+}
+button {
+    width:25%;
+    height:35px;
+    margin:10% 40%;
+    background-color: rgb(6, 140, 250);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    box-shadow: gray 1px 2px 1px 2px;
+
+}
+button:hover {
+    cursor: pointer;
+    box-shadow: none;
+    color:black;
+    border: 2px solid rgb(129, 129, 243);
+}
+input checkbox {
+    width:20px;
+    height:20px;
+    border-radius: 50%;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    margin-left:30%;
+    top:2%;
+    font-size: 3rem;
+}
